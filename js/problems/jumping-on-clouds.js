@@ -1,8 +1,4 @@
 //Jump over clouds
-//Meta: Data
-
-
-//Test the fucntion
 
 function jumpingOnClouds(listOfnumbers) {
     let counter = 0;
