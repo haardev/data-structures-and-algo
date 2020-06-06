@@ -1,3 +1,4 @@
+//Hackerrank problem
 
 function jumpingOnClouds(listOfnumbers) {
     let counter = 0;
