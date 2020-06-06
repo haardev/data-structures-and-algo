@@ -1,4 +1,3 @@
-//Jump over clouds
 
 function jumpingOnClouds(listOfnumbers) {
     let counter = 0;
