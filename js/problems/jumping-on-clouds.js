@@ -1,4 +1,8 @@
 //Jump over clouds
+//Meta: Data
+
+
+//Test the fucntion
 
 function jumpingOnClouds(listOfnumbers) {
     let counter = 0;
@@ -15,7 +19,6 @@ function jumpingOnClouds(listOfnumbers) {
         }
     }
 }
-
 
 let inputData = [0, 0, 1, 0, 0, 1, 0];
 
