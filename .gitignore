@@ -1,0 +1,4 @@
+node_modules/
+js/problems/cert.pem
+js/problems/index.hx
+js/problems/key.pem
